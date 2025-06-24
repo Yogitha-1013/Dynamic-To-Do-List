@@ -13,6 +13,12 @@ An interactive and responsive **To-Do List application** built using **HTML, CSS
 
 - HTML5
 - CSS3 (with responsive styling)
-- JavaScript 
+- JavaScript
+- ## 🧠 What I Learned
+
+- DOM manipulation and event listeners
+- JavaScript local storage API
+- Creating responsive and interactive UI
+- Improving UX with keyboard shortcuts and animations
 
 
